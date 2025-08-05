@@ -1,6 +1,6 @@
 # 🎯 ReactQuizApp
 
-A responsive quiz application devloped using the React framework and JavaScript.
+A responsive quiz application developed using the React framework and JavaScript.
 
 ### View Live
 https://ethangreatorex.github.io/ReactQuizApp/
