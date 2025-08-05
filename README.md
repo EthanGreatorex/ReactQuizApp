@@ -28,6 +28,6 @@ Score is tracked and displayed at the end of the quiz.
 
 ```bash
 git clone https://github.com/EthanGreatorex/ReactQuizApp.git
-cd ReactQuizApp
+cd react-quiz-app
 npm install
 npm run dev
