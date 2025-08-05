@@ -1,0 +1,30 @@
+
+
+.game{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    max-width: 600px;
+    min-width: 250px;
+    margin: 0 auto;
+    background-color: rgb(30, 30, 30);
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.446);
+}
+
+.game__button{
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 150px;
+    
+}
+
+@media (min-width: 768px){
+    .game{
+        min-height: 450px;
+        min-width: 600px;
+    }
+}
